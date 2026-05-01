@@ -1537,7 +1537,7 @@ footer {
   .hero {
     min-height: 380px;
     margin: 9px 0.5px 0.5px 0.5px;
-    max-width: 95%;
+    max-width: 92%;
     border-radius: 10px 10px 10px 10px;
     display: flex;
     align-items: flex-end;
